@@ -310,7 +310,7 @@ $(function(){
         }
     })();
 
-  //滚动条
+  //楼层跳转
   var biggb=$(".leftding")[0];
   var anniu=$(".ding1");
   var load=$(".loading");  //按需加载
