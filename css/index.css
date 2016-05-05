@@ -305,7 +305,7 @@
 
 
 /*huafei-tu*/
-.huafei-tu{width: 250px;height: 75px;margin-top: 9px;}
+.huafei-tu{width: 250px;height: 75px;margin-top: 9px;border-bottom: solid 1px #e4e4e4}
 /*小块*/
 .dakuai{width: 100%;padding-top:10px;}
 .xiaokuai{width: 1210px;height: 184px;margin: 0 auto;}
