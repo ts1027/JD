@@ -192,7 +192,7 @@
 .banner-mc a{color: #666}
 .banner-mc span{font-weight: 700;margin-right: 5px;}
 .banner-mc a:hover{color: #c81623}
-.huafei{height: 208px;position: relative;border-left: solid 1px #e4e4e4;width: 260px;overflow: hidden;}
+.huafei{height: 208px;position: relative;border-left: solid 1px #e4e4e4;width: 260px;overflow: hidden;border-bottom: solid 1px #e4e4e4}
 .huafei li{float: left;display: inline;width: 61px;height:69px;border-bottom: 1px solid #E8E8E7;cursor: pointer;border-right:1px solid #E8E8E7;}
 .huafei a{display: block;width: 61px;height: 28px;line-height: 28px;text-align: center;text-decoration: none;font-size: 12px;padding-top: 41px;color: #666;}
 .hua1{background-image: url("../image/568dfdbdN4f7d7ca3.png");top: 13px;left: 18px;width: 25px;height: 25px;display: block;position: absolute;}
@@ -305,7 +305,7 @@
 
 
 /*huafei-tu*/
-.huafei-tu{width: 250px;height: 75px;margin-top: 9px;border-bottom: solid 1px #e4e4e4}
+.huafei-tu{width: 250px;height: 75px;margin-top: 9px;}
 /*小块*/
 .dakuai{width: 100%;padding-top:10px;}
 .xiaokuai{width: 1210px;height: 184px;margin: 0 auto;}
